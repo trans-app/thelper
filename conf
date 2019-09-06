@@ -1,0 +1,1 @@
+{"qurl":"https://kyfw.12306.cn/otn/leftTicket/queryT?leftTicketDTO.train_date=#&leftTicketDTO.from_station=#&leftTicketDTO.to_station=#&purpose_codes=ADULT","lurl":"https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=dc","surl":"https://kyfw.12306.cn/otn/resources/js/framework/station_name.js?station_version=1.9108"}
